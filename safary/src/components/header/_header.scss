@@ -1,0 +1,30 @@
+@import "../global";
+.header {
+   margin:24px 0 30px;
+   background-color:  #F5F5F5;
+  &__row {
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__list {
+    margin-left: 60px;
+    cursor: pointer;
+    &:first-child {
+      margin-left: 0;
+    }
+      }
+  &__link{
+    @include font($c-black, 14px, 600, $font-mul);
+    &:hover{
+        color: $c-pink;
+        border-bottom: 1px solid #ED165F;
+    }
+  }
+  &__menu {
+    display: flex;
+  }
+  &__icons {
+    display: flex;
+  }
+  
+}

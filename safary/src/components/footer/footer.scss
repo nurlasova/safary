@@ -1,0 +1,44 @@
+@import "../global";
+
+.footer{
+    background-color: #F5F5F5;
+    &__row{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }&__list {
+        @include font($c-black, 16px, normal, $font-mul);
+        padding-top: 20px;
+      }
+
+      &__input {
+        color: $c-black;
+        width: 130px;
+        height: 43px;
+        border-radius: 5px;
+        outline: 0;
+        border: 2px solid $c-pink;
+        padding: 0 100px 0 24px;
+        background-color: transparent;
+      }
+      &__form {
+        margin-top: 20px;
+        position: relative;
+      }
+      &__button {
+        position: absolute;
+        right: 40px;
+        top: 0;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        background-color: $c-pink;
+        border: none;
+        outline: none;
+        border-radius: 5px;
+        padding: 15px 25px;
+      }
+      &__item{
+        @include font($c-black, 16px, normal, $font-mul);
+      }
+}

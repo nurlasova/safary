@@ -10,6 +10,7 @@ import Footer from './components/footer/footer'
 function App() {
   return (
     <>
+    
       <Header className="header"/>
         <Switch>
         <Route exact path = "/" component ={Home}/>
@@ -19,9 +20,9 @@ function App() {
         </Switch>
      
      
-      <Footer id = "#footer"/>
+      <Footer/>
     </>
   );
 }
 
-export default App;
+export default App

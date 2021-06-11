@@ -1,8 +1,9 @@
 @import "../global";
 .header {
-   margin:24px 0 30px;
+   padding: 25px 0;
    background-color:  #F5F5F5;
   &__row {
+    display: flex;
     justify-content: space-between;
     align-items: center;
   }
@@ -20,11 +21,27 @@
         border-bottom: 1px solid #ED165F;
     }
   }
+  &__nav{
+    display: flex;
+    justify-content: flex-start;
+  }
+  &__logo{
+    display: flex;
+    justify-content: center;
+  }
   &__menu {
     display: flex;
   }
   &__icons {
     display: flex;
+    justify-content: flex-end;
   }
-  
+  &__icon{
+    margin-left: 40px;
+    cursor: pointer;
+    fill: black;
+    &:hover{
+      fill: #ED165F;
+    }
+  }
 }

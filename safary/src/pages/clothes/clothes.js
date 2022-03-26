@@ -1,7 +1,8 @@
+import SectionClothes from "../../components/section__clothes/section__clothes"
 function Clothes (){
     return(
         <div>
-            <h1>This is page Clothes</h1>
+            <SectionClothes/>
         
         </div>
     )

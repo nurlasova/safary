@@ -14,15 +14,15 @@
       margin-left: 0;
     }
       }
-  &__link{
-    @include font($c-black, 14px, 600, $font-mul);
+  &__link1, &__link2, &__link3, &__link4{
+    @include font($c-black, 14px, bold, $font-mul);
     &:hover{
         color: $c-pink;
         border-bottom: 1px solid #ED165F;
     }
   }
   &__nav{
-    display: flex;
+    display: table;
     justify-content: flex-start;
   }
   &__logo{
@@ -31,10 +31,55 @@
   }
   &__menu {
     display: flex;
+    position: relative;
   }
+  &__menu:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  &__link{
+    display: block;
+    transition: .3s ease-in-out;
+    @include font($c-black, 14px, 600, $font-mul);
+   &:hover{
+     color:#FFFFFF
+   }
+  }
+  &__link2{
+    position: relative;
+  }
+  &__list2:hover{
+    color:#FFFFFF;
+    background:#ED165F;
+  }
+  &__menu > &__list2 {
+    width: 25%;
+    float: left;
+    position: relative;
+  }
+  &__submenu{
+    background:#F5F5F5;
+    position: absolute;
+    left: 115px;
+    top: 100%;
+    z-index: 10;
+    width: 115px;
+    opacity: 0;
+    transform: scaleY(0);
+    transform-origin: 0 0;
+    transition: .5s ease-in-out;
+  }
+  &__list2{
+    padding-top: 10px;
+  }
+  &__list:hover &__submenu {
+    opacity: 1;
+    transform: scaleY(1);}
   &__icons {
     display: flex;
     justify-content: flex-end;
+    align-items: center;
   }
   &__icon{
     margin-left: 40px;
@@ -42,6 +87,18 @@
     fill: black;
     &:hover{
       fill: #ED165F;
+    }
+  }
+  &__lang{
+    margin-left: 40px;
+    cursor: pointer;
+    @include font($c-black, 14px, 600, $font-mul);
+    background-color: #F5F5F5;
+    border: 5px solid transparent;
+    
+    &:hover{
+      background-color: #ED165F;
+      @include font($c-white, 14px, 600, $font-mul);
     }
   }
 }

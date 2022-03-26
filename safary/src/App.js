@@ -1,6 +1,7 @@
 import "./index.scss"
+
 import Header from './components/header/header'
-import Home from "./pages/home"
+import Home from "./pages/home/home"
 import Clothes from './pages/clothes/clothes'
 import Shoes from './pages/shoes/shoes'
 import Assec from './pages/assec/assec'

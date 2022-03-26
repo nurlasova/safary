@@ -1,0 +1,99 @@
+@import "../global";
+.shop{
+    padding-top: 64px;
+    &__description{
+        display: flex;
+        flex-direction:row ;
+        justify-content: center;
+        align-items: center;
+
+    }
+    &__title{
+        @include font(black, 40px, 700, $font-mul); 
+        text-align: center;
+    }
+    &__line{
+        border: 1px solid #000000;
+        width: 460px;
+    }
+    &__text{
+        padding: 32px 0 60px 0;
+        @include font(black, 24px, 400, $font-mul);
+        text-align: center;
+        line-height: 35px;
+    }
+    &__section{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    &__catalog{
+        margin-bottom: 100px;
+        margin-right: 1px;
+    }
+    &__catalog:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    &__catalogTitle, &__catalogPrice{
+        @include font(black, 20px, 400, $font-mul);
+        text-align: center;
+        padding-top: 10px;
+    }
+    &__catalogImg{
+        position: relative;
+    }
+    &__img{
+        opacity: 1;
+        display: block;
+        width: 100%;
+        height: auto;
+        transition: .5s ease;
+        cursor: pointer;
+        backface-visibility: hidden;
+    }
+    &__favourites{
+        transition: .5s ease;
+        opacity: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        display: flex;
+        flex-direction: column; 
+        display: flex;
+        justify-content: center;       
+    }
+    &__favourites:hover{
+        opacity: 1;
+        background-color: rgba(0, 0, 0, 0.25);
+        padding: 209px 112px;
+    }
+ &__catalogImg:hover, &__img{
+        opacity: 1;
+    }
+    &__like{
+    padding: 11px 9px 9.77px 10px;
+    background-color: white;
+    outline: none;
+    border:none;
+    border-radius: 2px;
+    width: 45px;
+    margin: 0 auto
+    }
+    &__iconLike:hover{
+    fill: $c-pink;
+    color: #ED165F;
+    cursor: pointer;
+    }
+    &__card{
+        display: flex;
+        padding: 12px 15px 11px 18px;
+        background-color: white;
+        outline: none;
+        border:none;
+        border-radius: 2px;
+        @include font(black, 10px, 700, $font-mul);
+        margin-top: 10px;
+    }
+}

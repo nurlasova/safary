@@ -1,0 +1,24 @@
+@import "../global";
+.clothes{
+
+&__title{
+    @include font($c-black, 30px, bold, $font-mul); 
+    padding:88px 0 64px;
+}
+&__menu-title{
+    @include font($c-black, 20px, bold, $font-mul); 
+    border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+}
+&__menu-list{
+    padding-bottom:16px;
+}
+&__menu-link{
+    @include font($c-grey, 16px, normal, $font-mul); 
+}
+&__menu-link:hover{
+    color:$c-pink;
+    cursor:pointer;
+}
+}

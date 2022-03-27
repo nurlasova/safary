@@ -14,23 +14,21 @@ import Img12 from "../../assets/img/svg/img_12.svg"
 import Img13 from "../../assets/img/svg/img_13.svg"
 import Img14 from "../../assets/img/svg/img_14.svg"
 import Img15 from "../../assets/img/svg/img_15.svg"
+import { useTranslation } from 'react-i18next';
+import  "../langs/lang.js"
+
 function Shop(){
+    const {t} = useTranslation()
     return(
         <>
         <div className="shop">
         <div className="shop__description">
                  <hr className="shop__line"></hr> 
-                 <h2 className="shop__title">Покупайте свой стиль</h2>
+                 <h2 className="shop__title">{t('shop.title')}</h2>
                  <hr className="shop__line"></hr> 
                 </div>
             <div className="container">
-               <p className="shop__text">
-               Safary — молодой бренд женской одежды, который влюбляет в себя с первого взгляда чистотой форм, 
-               природными цветами и летящими тканями. Это тонкое сочетание спортивного стиля и женственности,
-                особенно ценное в большом городе, где одновременно важны и стиль, и комфорт. 
-                В магазине представлены базовые юбки, платья и верхняя одежда. 
-                Смотришь — и каждую из вещей хочется носить, не снимая!
-               </p>
+               <p className="shop__text"> {t('shop.text')}</p>
                <div className="shop__section "> 
                 <div className="col-3 shop__catalog">
     {/* 1 строка 1 фото */}

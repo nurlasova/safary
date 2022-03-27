@@ -23,7 +23,6 @@ function SectionClothes(){
     <li className="clothes__menu-list"><a href="#" className="clothes__menu-link">Свитера и трикотаж</a></li>
   </ul>
 </div>
-
             </div>
           </div>
         </div>

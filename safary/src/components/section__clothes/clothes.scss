@@ -22,13 +22,16 @@
     cursor:pointer;
 }
 &__content{
-    
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end; 
 }
 &__sortMenu{
-    display:flex;
-    justify-content: flex-end;    
-    border-bottom: 2px solid rgba(0, 0, 0, 0.5);
     padding-bottom: 16px;
+}
+&__line{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    width: 100px;  
 }
 &__sort{
     @include font($c-black, 14px, 600, $font-mul); 

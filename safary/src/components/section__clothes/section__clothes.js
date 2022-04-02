@@ -10,7 +10,7 @@ function SectionClothes(){
           <div className="container">
             <h1 className="clothes__title">{t('clothes.title')}</h1>
             <div className="clothes__main row">              
-            <div className="clothes__menu col-2">
+            <div className="clothes__menu col-3">
             <div className="clothes__menu-category-wrap">
   <h3 className="clothes__menu-title">{t('clothes__menu-title')}</h3>
   <ul>
@@ -29,7 +29,7 @@ function SectionClothes(){
 </div>
             </div>
             
-            <div className="clothes__content col-10">
+            <div className="clothes__content col-9">
               <div className="clothes__sortMenu">
                 <select className="clothes__sort"> 
                   <option className="clothes__sortItem">{t('clothes__sort-item1')}</option>
@@ -37,6 +37,7 @@ function SectionClothes(){
                   <option className="clothes__sortItem">{t('clothes__sort-item3')}</option>
                   <option className="clothes__sortItem">{t('clothes__sort-item4')}</option>
                 </select>
+                <hr className="clothes__line"></hr> 
             </div>
             </div>
 

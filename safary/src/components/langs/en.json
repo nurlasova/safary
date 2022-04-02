@@ -28,7 +28,27 @@
     "shop__catalogTitle12": "Ladies bush pants",
     "shop__catalogTitle13": "Guilhermina Embellished Slides",
     "shop__catalogTitle14": "Superga Plaid Sneakers",
-    "shop__catalogTitle15": "Checked ladies trouser"
+    "shop__catalogTitle15": "Checked ladies trouser",
+
+    "clothes.title":  "Clothes",
+    "clothes__menu-title":"Category",
+    
+    "clothes__menu-list1": "All",
+    "clothes__menu-list2": "Dresses",
+    "clothes__menu-list3": "Jeans",
+    "clothes__menu-list4": "Tops",
+    "clothes__menu-list5": "Jackets and coats",
+    "clothes__menu-list6": "Pants",
+    "clothes__menu-list7": "Shorts",
+    "clothes__menu-list8": "Skirts",
+    "clothes__menu-list9": "Lingerie & underwear",
+    "clothes__menu-list10": "Leather",
+    "clothes__menu-list11": "Sweaters & knits",
+
+    "clothes__sort-item1":"Most popular",
+    "clothes__sort-item2":"Best Selling",
+    "clothes__sort-item3":"Price: High to Low",
+    "clothes__sort-item4":"Price: Low to High"
 
     
 

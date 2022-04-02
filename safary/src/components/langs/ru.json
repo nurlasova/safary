@@ -28,5 +28,25 @@
     "shop__catalogTitle12": "Женские брюки-буши",
     "shop__catalogTitle13": "Гильермина Украсила Слайды",
     "shop__catalogTitle14": "Кроссовки в клетку Superga",
-    "shop__catalogTitle15": "Женские брюки в клетку"
+    "shop__catalogTitle15": "Женские брюки в клетку",
+    
+    "clothes.title":  "Одежды",
+    "clothes__menu-title":"Категория",
+
+    "clothes__menu-list1": "Все",
+    "clothes__menu-list2": "Платье",
+    "clothes__menu-list3": "Джинсы",
+    "clothes__menu-list4": "Топики",
+    "clothes__menu-list5": "Куртки и пальто",
+    "clothes__menu-list6": "Брюки",
+    "clothes__menu-list7": "Шорты",
+    "clothes__menu-list8": "Юбки",
+    "clothes__menu-list9": "Нижнее белье",
+    "clothes__menu-list10": "Кожаные одежды",
+    "clothes__menu-list11": "Свитер & трикотаж",
+
+    "clothes__sort-item1":"Самый популярный",
+    "clothes__sort-item2":"Самый продаваемый",
+    "clothes__sort-item3":"Цена: От высокой до низкой",
+    "clothes__sort-item4":"Цена: От низкой до высокой"
 }

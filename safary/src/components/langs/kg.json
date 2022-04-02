@@ -28,6 +28,26 @@
     "shop__catalogTitle12": "Буши-шым",
     "shop__catalogTitle13": "Кооздолгон туфли",
     "shop__catalogTitle14": "Superga чакмак кроссовки",
-    "shop__catalogTitle15": "Аялардын шымы"
+    "shop__catalogTitle15": "Аялардын шымы",
+
+    "clothes.title":  "Кийимдер",
+    "clothes__menu-title":"Категория",
+
+    "clothes__menu-list1": "Баары",
+    "clothes__menu-list2": "Көйнөктөр",
+    "clothes__menu-list3": "Джинсылар",
+    "clothes__menu-list4": "Топиктер",
+    "clothes__menu-list5": "Күрмө жана пальто",
+    "clothes__menu-list6": "Шымдар",
+    "clothes__menu-list7": "Шорталар",
+    "clothes__menu-list8": "Юбкалар",
+    "clothes__menu-list9": "Ички кийимдер",
+    "clothes__menu-list10": "Териден жасалган кийимдер",
+    "clothes__menu-list11": "Свитерлер жана трикотаж",
+
+    "clothes__sort-item1":"Эң популярдуу",
+    "clothes__sort-item2":"Эң көп сатылган",
+    "clothes__sort-item3":"Баасы: жогорудан төмөнгө чейин",
+    "clothes__sort-item4":"Баасы: төмөндөн Жогоруга чейин"
 
 }

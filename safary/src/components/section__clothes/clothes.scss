@@ -21,4 +21,26 @@
     color:$c-pink;
     cursor:pointer;
 }
+&__content{
+    
+}
+&__sortMenu{
+    display:flex;
+    justify-content: flex-end;    
+    border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+    padding-bottom: 16px;
+}
+&__sort{
+    @include font($c-black, 14px, 600, $font-mul); 
+    cursor: pointer;
+    background-color: $c-white;
+    border: 1px solid #000000;
+    box-sizing: border-box;  
+    &:hover{
+        background-color: #ED165F;
+        @include font($c-white, 14px, 600, $font-mul);
+    }
+
+}
+
 }

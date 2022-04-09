@@ -48,6 +48,47 @@
     "clothes__sort-item1":"Эң популярдуу",
     "clothes__sort-item2":"Эң көп сатылган",
     "clothes__sort-item3":"Баасы: жогорудан төмөнгө чейин",
-    "clothes__sort-item4":"Баасы: төмөндөн Жогоруга чейин"
+    "clothes__sort-item4":"Баасы: төмөндөн Жогоруга чейин",
+
+    "clothes__catalogTitle1": "Кызыл жеңил көйнөк",
+    "clothes__catalogTitle2": "Жеңсиз түстүү топ",
+    "clothes__catalogTitle3": "Буши-шым",
+    "clothes__catalogTitle4": "Кыска-юбка",
+    "clothes__catalogTitle5": "Көк көйнөк топчулар менен",
+    "clothes__catalogTitle6": "Чакмак шым",
+    "clothes__catalogTitle7": "Атлас көйнөк",
+    "clothes__catalogTitle8": "Кышкы жылуу көйнөк",
+    "clothes__catalogTitle9": "Жайкы көйнөк",
+    "clothes__catalogTitle10": "Офис костюму",
+    "clothes__catalogTitle11": "Кыска жайкы Топ",
+    "clothes__catalogTitle12": "Жайкы жука шым",
+
+    "shoes.title":  "Бут кийим",
+    "shoes__menu-title":"Категория",
+
+    "shoes__menu-list1": "Баары",
+    "shoes__menu-list2": "Ботильон",
+    "shoes__menu-list3": "Балеткалар",
+    "shoes__menu-list4": "Ботинкалар",
+    "shoes__menu-list5": "Сандалдар",
+    "shoes__menu-list6": "Кроссовкалар",
+    "shoes__menu-list7": "Тапочкалар",
+    "shoes__menu-list8": "Каблуктар",
+    "shoes__menu-list9": "Туфли",
+    "shoes__menu-list10": "Лофер",
+    "shoes__menu-list11": "Кечки",
+
+    "shoes__catalogTitle1": "Бийик такалуу туфли",
+    "shoes__catalogTitle2": "Кеды кроссовки",
+    "shoes__catalogTitle3": "Кооздолгон туфли",
+    "shoes__catalogTitle4": "Жайкы балетка",
+    "shoes__catalogTitle5": "Жалпак такалуу Мокаси",
+    "shoes__catalogTitle6": "Кара ачык бут кийим",
+    "shoes__catalogTitle7": "Superga кроссовкасы",
+    "shoes__catalogTitle8": "Бийик такалуу бут кийим",
+    "shoes__catalogTitle9": "Туфли HAJINK",
+    "shoes__catalogTitle10": "Жалпак такалуу сандал",
+    "shoes__catalogTitle11": "Жайкы жалпак бут кийим",
+    "shoes__catalogTitle12": "Ботильон"
 
 }

@@ -30,7 +30,7 @@
     "shop__catalogTitle14": "Superga Plaid Sneakers",
     "shop__catalogTitle15": "Checked ladies trouser",
 
-    "clothes.title":  "Clothes",
+    "clothes.title":  "CLOTHES",
     "clothes__menu-title":"Category",
     
     "clothes__menu-list1": "All",
@@ -48,9 +48,49 @@
     "clothes__sort-item1":"Most popular",
     "clothes__sort-item2":"Best Selling",
     "clothes__sort-item3":"Price: High to Low",
-    "clothes__sort-item4":"Price: Low to High"
+    "clothes__sort-item4":"Price: Low to High",
 
-    
+    "clothes__catalogTitle1": "Red lightweight gown",
+    "clothes__catalogTitle2": "Multicolored armless top",
+    "clothes__catalogTitle3": "Ladies bush pants",
+    "clothes__catalogTitle4": "Mini skirt",
+    "clothes__catalogTitle5": "Blue botton-down gown",
+    "clothes__catalogTitle6": "Checked ladies trouser",
+    "clothes__catalogTitle7": "Top with Pleated Skirt Satin",
+    "clothes__catalogTitle8": "Winter Warm Woolen Parka",
+    "clothes__catalogTitle9": "Summer Dress for Women",
+    "clothes__catalogTitle10": "Women office suit",
+    "clothes__catalogTitle11": "Single Breasted Cami Top",
+    "clothes__catalogTitle12": "Twill paper bag trousers",
+
+    "shoes.title":  "SHOES",
+    "shoes__menu-title":"CATEGORY",
+
+    "shoes__menu-list1": "All",
+    "shoes__menu-list2": "Booties",
+    "shoes__menu-list3": "Flats",
+    "shoes__menu-list4": "Boots",
+    "shoes__menu-list5": "Sandals",
+    "shoes__menu-list6": "Sneakers",
+    "shoes__menu-list7": "Slides & Slippers",
+    "shoes__menu-list8": "Heels",
+    "shoes__menu-list9": "Wedges",
+    "shoes__menu-list10": "Mules",
+    "shoes__menu-list11": "Party shoes",
+
+    "shoes__catalogTitle1": "High heels ladies shoes",
+    "shoes__catalogTitle2": "Keds sneakers",
+    "shoes__catalogTitle3": "Guilhermina Embellished Slides",
+    "shoes__catalogTitle4": "Summer shoes",
+    "shoes__catalogTitle5": "Casual Flat Loafers",
+    "shoes__catalogTitle6": "Black strappy peeptoe",
+    "shoes__catalogTitle7": "Superga Platform Sneakers",
+    "shoes__catalogTitle8": "Heeled sandals",
+    "shoes__catalogTitle9": "HAJINK Boat Shoes",
+    "shoes__catalogTitle10": "Casual Flat Sandals",
+    "shoes__catalogTitle11": "Summer Cork Slippers",
+    "shoes__catalogTitle12": "Ankle boots"
+
 
 
 }

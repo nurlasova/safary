@@ -1,7 +1,8 @@
+import SectionShoes from "../../components/section__shoes/section__shoes.js"
 function Shoes (){
     return(
         <div>
-                        <h1>This is page Shoes</h1>
+         <SectionShoes/>
         </div>
     )
    }

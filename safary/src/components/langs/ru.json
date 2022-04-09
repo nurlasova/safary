@@ -48,5 +48,49 @@
     "clothes__sort-item1":"Самый популярный",
     "clothes__sort-item2":"Самый продаваемый",
     "clothes__sort-item3":"Цена: От высокой до низкой",
-    "clothes__sort-item4":"Цена: От низкой до высокой"
+    "clothes__sort-item4":"Цена: От низкой до высокой",
+
+    "clothes__catalogTitle1": "Красное легкое платье",
+    "clothes__catalogTitle2": "Разноцветный топ без рукавов",
+    "clothes__catalogTitle3": "Женские брюки-буши",
+    "clothes__catalogTitle4": "Мини-юбка",
+    "clothes__catalogTitle5": "Синее платье на пуговица",
+    "clothes__catalogTitle6": "Клетчатые женские брюки",
+    "clothes__catalogTitle7": "Топ с плиссированной юбкой из атласа",
+    "clothes__catalogTitle8": "Зимняя теплая шерстяная Парка",
+    "clothes__catalogTitle9": "Летнее платье для женщин",
+    "clothes__catalogTitle10": "Женский офисный костюм",
+    "clothes__catalogTitle11": "Однобортный Топ на бретелях",
+    "clothes__catalogTitle12": "Брюки из саржевого бумажного пакета",
+
+    "shoes.title":  "Обуви",
+    "shoes__menu-title":"Категория",
+
+    "shoes__menu-list1": "Все",
+    "shoes__menu-list2": "Ботильоны",
+    "shoes__menu-list3": "Балетки",
+    "shoes__menu-list4": "Ботинки",
+    "shoes__menu-list5": "Сандалии",
+    "shoes__menu-list6": "Кроссовки",
+    "shoes__menu-list7": "Тапочки",
+    "shoes__menu-list8": "Каблуки",
+    "shoes__menu-list9": "Туфли",
+    "shoes__menu-list10": "Лоферы",
+    "shoes__menu-list11": "Вечерние",
+
+    "shoes__catalogTitle1": "Женские туфли на высоких каблуках",
+    "shoes__catalogTitle2": "Кеды кроссовки",
+    "shoes__catalogTitle3": "Туфли с украшениями",
+    "shoes__catalogTitle4": "Летняя балетка",
+    "shoes__catalogTitle5": "Повседневные мокасины на плоской подошве",
+    "shoes__catalogTitle6": "Черные босоножки",
+    "shoes__catalogTitle7": "Кроссовки на платформе Superga",
+    "shoes__catalogTitle8": "Босоножки на каблуке",
+    "shoes__catalogTitle9": "Туфли HAJINK",
+    "shoes__catalogTitle10": "Повседневные сандалии на плоской подошве",
+    "shoes__catalogTitle11": "Летние Тапочки",
+    "shoes__catalogTitle12": "Ботильоны"
+
+    
+
 }

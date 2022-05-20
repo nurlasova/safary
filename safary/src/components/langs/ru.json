@@ -89,7 +89,45 @@
     "shoes__catalogTitle9": "Туфли HAJINK",
     "shoes__catalogTitle10": "Повседневные сандалии на плоской подошве",
     "shoes__catalogTitle11": "Летние Тапочки",
-    "shoes__catalogTitle12": "Ботильоны"
+    "shoes__catalogTitle12": "Ботильоны",
+
+    "acsess.title": "Аксессуары",
+    "acsess__menu-title":"Категория",
+    "acsess__menu-list1": "Все",
+    "acsess__menu-list2":"Маска для лица",
+    "acsess__menu-list3":"Ювелирные украшения",
+    "acsess__menu-list4":"Часы",
+    "acsess__menu-list5":"Аксессуары для волос",
+    "acsess__menu-list6":"Ремни",
+    "acsess__menu-list7":"Рюкзаки",
+    "acsess__menu-list8":"Сумки",
+    "acsess__menu-list9":"Ароматы",
+    "acsess__menu-list10":"Носки",
+    "acsess__menu-list11":"Перчатки",
+
+    "acsess__sort-item1":"Самый популярный",
+    "acsess__sort-item2":"Самый продаваемый",
+    "acsess__sort-item3":"Цена: От высокой до низкой",
+    "acsess__sort-item4":"Цена: От низкой до высокой",
+
+    "acsess__catalogTitle1": "Сумка с Бубном",
+    "acsess__catalogTitle2": "Летняя сумочка",
+    "acsess__catalogTitle3": "Заумные овальные очки",
+    "acsess__catalogTitle4": "Дамское кольцо с бриллиантом",
+    "acsess__catalogTitle5": "Повседневная бейсбольная кепка",
+    "acsess__catalogTitle6": "Ожерелье из слезоточивого камня",
+    "acsess__catalogTitle7": "Женские роскошные часы",
+    "acsess__catalogTitle8": "Тканевая маска для Лица с рисунком",
+    "acsess__catalogTitle9": "Модные женские часы",
+    "acsess__catalogTitle10": "Шапочка зимняя флисовая",
+    "acsess__catalogTitle11": "Черный женский рюкзак",
+    "acsess__catalogTitle12": "Ковбойские шляпы",
+
+    "user__title": "Привет!",
+    "user__description":"Пожалуйста, войдите в систему или создайте учетную запись, чтобы продолжить"
+
+
+
 
     
 

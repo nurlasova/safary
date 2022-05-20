@@ -1,0 +1,12 @@
+@import "../global";
+.user{
+    &__title{
+        @include font($c-black, 30px, bold, $font-mul); 
+        padding: 64px 0 16px;
+    }
+    &__description{
+        @include font($c-black, 20px, 400, $font-mul); 
+        padding:16px 0 64px;
+    }
+
+}

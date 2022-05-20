@@ -89,6 +89,40 @@
     "shoes__catalogTitle9": "Туфли HAJINK",
     "shoes__catalogTitle10": "Жалпак такалуу сандал",
     "shoes__catalogTitle11": "Жайкы жалпак бут кийим",
-    "shoes__catalogTitle12": "Ботильон"
+    "shoes__catalogTitle12": "Ботильон",
 
+    "acsess.title": "Аксессуары",
+    "acsess__menu-title":"Категория",
+    "acsess__menu-list1": "Баары",
+    "acsess__menu-list2":"Бет маскасы",
+    "acsess__menu-list3":"Зергер буюмдары",
+    "acsess__menu-list4":"Кол сааттар",
+    "acsess__menu-list5":"Чач аксессуарлары",
+    "acsess__menu-list6":"Курлар",
+    "acsess__menu-list7":"Рюкзактар",
+    "acsess__menu-list8":"Сумкалар",
+    "acsess__menu-list9":"Аромат атырлар",
+    "acsess__menu-list10":"Байпактар",
+    "acsess__menu-list11":"Кол каптар",
+
+    "acsess__sort-item1":"Эң популярдуу",
+    "acsess__sort-item2":"Эң көп сатылган",
+    "acsess__sort-item3":"Баасы: жогорудан төмөнгө чейин",
+    "acsess__sort-item4":"Баасы: төмөндөн Жогоруга чейин",
+
+    "acsess__catalogTitle1": "Дуб сумкасы",
+    "acsess__catalogTitle2": "Жайкы куржун",
+    "acsess__catalogTitle3": "Көз айнек",
+    "acsess__catalogTitle4": "Алмаз шакек",
+    "acsess__catalogTitle5": "Күндөлүк бейсбол кепкасы",
+    "acsess__catalogTitle6": "Тамчы таш шуру",
+    "acsess__catalogTitle7": "Luxury саркеч сааты",
+    "acsess__catalogTitle8": "Кездеме бет кабы",
+    "acsess__catalogTitle9": "Fashion саркеч сааты",
+    "acsess__catalogTitle10": "Кышкы жүн топу",
+    "acsess__catalogTitle11": "Кара сумка",
+    "acsess__catalogTitle12": "Ковбой шляпасы",
+
+    "user__title": "Салам!",
+    "user__description":"Сураныч, улантуу үчүн кириңиз же катталыңыз"
 }

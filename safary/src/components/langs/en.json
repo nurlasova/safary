@@ -89,8 +89,54 @@
     "shoes__catalogTitle9": "HAJINK Boat Shoes",
     "shoes__catalogTitle10": "Casual Flat Sandals",
     "shoes__catalogTitle11": "Summer Cork Slippers",
-    "shoes__catalogTitle12": "Ankle boots"
+    "shoes__catalogTitle12": "Ankle boots",
+
+    "acsess.title": "ACCESSORIES",
+    "acsess__menu-title":"CATEGORY",
+    "acsess__menu-list1": "All",
+    "acsess__menu-list2":"Facemask",
+    "acsess__menu-list3":"Jewelry",
+    "acsess__menu-list4":"Watches",
+    "acsess__menu-list5":"Hair accessories",
+    "acsess__menu-list6":"Belts",
+    "acsess__menu-list7":"Backpacks",
+    "acsess__menu-list8":"Handbags",
+    "acsess__menu-list9":"Fragrances",
+    "acsess__menu-list10":"Socks",
+    "acsess__menu-list11":"Gloves",
+     
+    
+    "acsess__sort-item1":"Most popular",
+    "acsess__sort-item2":"Best Selling",
+    "acsess__sort-item3":"Price: High to Low",
+    "acsess__sort-item4":"Price: Low to High",
+
+    "acsess__catalogTitle1": "Tambourine Crossbody Bag",
+    "acsess__catalogTitle2": "Summer Handbag",
+    "acsess__catalogTitle3": "Nereide Oval",
+    "acsess__catalogTitle4": "Diamond ladies ring",
+    "acsess__catalogTitle5": "Casual baseball cap",
+    "acsess__catalogTitle6": "Tear-drop stone necklace",
+    "acsess__catalogTitle7": "Ladies luxury watch",
+    "acsess__catalogTitle8": "Pattern Cloth Face Mask",
+    "acsess__catalogTitle9": "Fashion ladies watch",
+    "acsess__catalogTitle10": "Beanie winter fleece",
+    "acsess__catalogTitle11": "Black ladies backpack",
+    "acsess__catalogTitle12": "Сowboy hats",
+
+    "user__title": "Hello there!",
+    "user__description":"Please sign in or create account to continue"
+    
 
 
+
+
+
+
+
+
+    
+
+    
 
 }

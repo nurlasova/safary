@@ -1,8 +1,8 @@
+import SectionAcsess from "../../components/section__acsessories/section__acsess.js"
 function Assec (){
     return(
         <div>
-             <h1>This is page Assec</h1>
-        
+              <SectionAcsess/>        
         </div>
     )
    }
